@@ -15,4 +15,4 @@ Please explore! You can find links to my current projects under the Portfolio ta
 ### External Features
 * LinkedIn page updates
     * Contains link to my portfolio and GitHub pages
-    * Link to Project 1
+    * Link to Projects
